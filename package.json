@@ -5,6 +5,14 @@
   "author": "saurabhnemade",
   "license": "MIT",
   "repository": "saurabhnemade/redux-magic-reducer",
+  "keywords": [
+    "redux",
+    "async",
+    "dynamic",
+    "reducer",
+    "magic",
+    "code-split"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
