@@ -5,11 +5,14 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "deep-object-diff": "^1.1.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-json-pretty": "^1.7.9",
+    "redux-magic-reducer": "file:..",
     "react-scripts": "^1.1.4",
-    "redux-magic-reducer": "file:.."
+    "redux": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
