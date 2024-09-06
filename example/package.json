@@ -9,10 +9,10 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-json-pretty": "^1.7.9",
+    "react-json-pretty": "^2.0.0",
     "redux-magic-reducer": "file:..",
-    "react-scripts": "^1.1.4",
-    "redux": "^3.7.2"
+    "react-scripts": "^5.0.0",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
